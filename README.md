@@ -65,14 +65,17 @@ This particular collection focuses on **Web Development using JavaScript**, cove
 
    Open individual project folders to explore:
 
- 2. cd Level_1/<>
+ 2. Open individual project folders to explore:
+    '''bash
+      cd Level_1/To-Do_App
+
 
 
 3. Run in browser:
 
-Open the .html file directly
+   - Open the .html file directly
 
-Or use a local server (e.g., Live Server in VS Code)
+   - Or use a local server (e.g., Live Server in VS Code)
 
 ✨ Highlights
 
