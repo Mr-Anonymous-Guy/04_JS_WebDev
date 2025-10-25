@@ -1,6 +1,6 @@
 # 04_JS_WebDev
 
-# 🌐 JavaScript / Web Dev — 04_JS_WebDev
+# 🌐 JavaScript / Web Dev Projects — 04_JS_WebDev
 
 A complete collection of **JavaScript and Web Development projects** ranging from basic frontend applications to full-stack and AI-integrated web systems.  
 Each project represents progressive skill growth — from DOM manipulation to modern frameworks and backend integration.
