@@ -65,11 +65,10 @@ This particular collection focuses on **Web Development using JavaScript**, cove
 
    Open individual project folders to explore:
 
- 2. Open individual project folders to explore:
-    '''bash
-      cd Level_1/To-Do_App
-
-
+2. Open the Project  to run:
+   ```bash
+   git clone https://github.com/Mr-Anonymous-Guy/C-Projects.git
+   cd C-Projects
 
 3. Run in browser:
 
