@@ -63,12 +63,12 @@ This particular collection focuses on **Web Development using JavaScript**, cove
    git clone https://github.com/Mr-Anonymous-Guy/04_JS_WebDev.git
    cd 04_JS_WebDev
 
-   Open individual project folders to explore:
+   
 
-2. Open the Project  to run:
+2. Open individual project folders to explore::
    ```bash
-   git clone https://github.com/Mr-Anonymous-Guy/C-Projects.git
-   cd C-Projects
+   cd Level_1/To-Do_App
+
 
 3. Run in browser:
 
